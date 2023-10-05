@@ -20,7 +20,7 @@ def speed_time(time_s,time_e,userinput):
 
     speed = len(userinput)/time_R
     return round(speed)
-test = [" Here we are going to generate a program " , " my name is Ananya " , "Welcome to bareilly city"]
+test = [" Here we are going to generate a program " , " my name is Ananya Gond " , "Welcome to bareilly city"]
 
 test1 = r.choice(test)
 print("     *****typing speed*****")
